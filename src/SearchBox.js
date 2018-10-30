@@ -6,7 +6,7 @@ export const SearchBox = ({ searchField, searchChange }) => {
       <input
         className="pa3 ba b--green bg-lightest-blue"
         type="search"
-        placeholder="🤖Search Robots"
+        placeholder="🤖 ロボットを検索する"
         onChange={searchChange}
       />
     </div>
